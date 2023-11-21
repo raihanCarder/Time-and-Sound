@@ -15,8 +15,6 @@ namespace Monogame___Lesson_4
         List<int> frame = new List<int>();
         List<Texture2D> earthExplosionTexture = new List<Texture2D>();
         
-
-
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         Texture2D bombTexture;
